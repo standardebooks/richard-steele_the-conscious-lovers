@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 440">
-	<title>The titlepage for the Standard Ebooks edition of The Conscious Lovers, by Richard Steel</title>
+	<title>The titlepage for the Standard Ebooks edition of The Conscious Lovers, by Richard Steele</title>
 	<style type="text/css">
 		text{
 			font-family: "League Spartan";
@@ -18,5 +18,5 @@
 	</style>
 	<text class="title" x="700" y="130">THE CONSCIOUS</text>
 	<text class="title" x="700" y="230">LOVERS</text>
-	<text class="author" x="700" y="390">RICHARD STEEL</text>
+	<text class="author" x="700" y="390">RICHARD STEELE</text>
 </svg>
