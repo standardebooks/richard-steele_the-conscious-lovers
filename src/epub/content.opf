@@ -56,7 +56,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Jean François de Troy</dc:contributor>
-		<meta property="file-as" refines="#artist">Troy, Jean François de </meta>
+		<meta property="file-as" refines="#artist">Troy, Jean François de</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jean_Fran%C3%A7ois_de_Troy</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n88132205</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
