@@ -189,20 +189,6 @@ footer{
 /* end letter */
 
 /* Dedication */
-footer{
-	margin-top: 1em;
-	text-align: right;
-}
-
-[epub|type~="z3998:salutation"] + p{
-	text-indent: 0;
-}
-
-[epub|type~="z3998:salutation"],
-[epub|type~="z3998:signature"]{
-	font-variant: small-caps;
-}
-
 header{
 	font-variant: small-caps;
 	margin: 1em;
