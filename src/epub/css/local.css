@@ -195,8 +195,13 @@ header{
 	text-align: center;
 }
 
-[epub|type~="prologue"] header p{
+[epub|type~="prologue"] header p,
+[epub|type~="epilogue"] header p{
 	font-style: italic;
 	font-variant: normal;
 	text-align: center;
+}
+
+[epub|type~="epilogue"] [epub|type~="z3998:persona"]{
+	font-style: normal;
 }
