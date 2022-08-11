@@ -194,3 +194,9 @@ header{
 	margin: 1em;
 	text-align: center;
 }
+
+[epub|type~="prologue"] header p{
+	font-style: italic;
+	font-variant: normal;
+	text-align: center;
+}
