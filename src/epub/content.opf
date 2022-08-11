@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/richard-steele/the-conscious-lovers</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-08-11T20:31:04Z</dc:date>
+		<meta property="dcterms:modified">2022-08-11T20:31:04Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,15 +38,15 @@
 		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">A rich young man tries to avoid the marriage his father has arranged.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Conscious Lovers&lt;/i&gt; was first performed in 1722 at Drury Lane and is generally acknowledged as the first “sentimental comedy.” Borrowing heavily from Roman playwright Terences’s &lt;i&gt;Andria&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/richard-steele"&gt;Richard Steele&lt;/a&gt; veers away from the traditional lewdness of Restoration comedy by deliberately focussing on restrained passion and patience over bawdy or salacious behavior. Laughter is replaced with a more sentiment-based set of comedic values. Steele’s model proved so influential that not until &lt;a href="https://standardebooks.org/ebooks/oliver-goldsmith"&gt;Goldsmith’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/oliver-goldsmith/she-stoops-to-conquer"&gt;She Stoops to Conquer&lt;/a&gt;&lt;/i&gt; in 1773 does the “laughing comedy” return to the English stage.&lt;/p&gt;
-			&lt;p&gt;The plot revolves around Bevil Junior who, although promised to a young women by his father, has fallen in love with another. On his wedding day he discovers his friend Myrtle loves the young woman he is to marry and is consumed with jealousy.&lt;/p&gt;
-			&lt;p&gt;Steele states in his Preface that he very intentionally wrote the play around a crucial “duelling” scene, attempting to nudge his audience towards more restrained and refined behavior, hoping that “it may have some effect upon the Goths and Vandals that frequent the theatres.” Whether it did or not is often debated but it certainly affected the nature of English comedy for many decades to follow.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Conscious Lovers&lt;/i&gt; was first performed in 1722 at Drury Lane and is generally acknowledged as the first “sentimental comedy.” Borrowing heavily from Roman playwright Terences’s &lt;i&gt;Andria&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/richard-steele"&gt;Richard Steele&lt;/a&gt; veers away from the traditional lewdness of Restoration comedy by deliberately focusing on restrained passion and patience over bawdy or salacious behavior. Laughter is replaced with a more sentiment-based set of comedic values. Steele’s model proved so influential that not until 1773 with &lt;a href="https://standardebooks.org/ebooks/oliver-goldsmith"&gt;Goldsmith’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/oliver-goldsmith/she-stoops-to-conquer"&gt;She Stoops to Conquer&lt;/a&gt;&lt;/i&gt; does the “laughing comedy” return to the English stage.&lt;/p&gt;
+			&lt;p&gt;The plot revolves around Bevil Junior who, though promised to a young women by his father, has fallen in love with another. On his wedding day he discovers his friend Myrtle loves the young woman he is to marry, and he becomes consumed with jealousy.&lt;/p&gt;
+			&lt;p&gt;Steele states in his Preface that he very intentionally wrote the play around a crucial “dueling” scene, attempting to nudge his audience towards more restrained and refined behavior, hoping that “it may have some effect upon the Goths and Vandals that frequent the theaters.” Whether it did or not is debated, but it certainly affected the nature of English comedy for decades to follow.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/55922</dc:source>
 		<dc:source>https://archive.org/details/richardsteele02steegoog</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">27049</meta>
+		<meta property="se:reading-ease.flesch">70.43</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Conscious_Lovers</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/richard-steele_the-conscious-lovers</meta>
 		<dc:creator id="author">Richard Steele</dc:creator>
@@ -66,7 +66,7 @@
 		<dc:contributor id="transcriber-1">Clare Graham</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Graham, Clare</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">Marc D’Hooghe at Free Literature</dc:contributor>
+		<dc:contributor id="transcriber-2">Marc D’Hooghe</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">D’Hooghe, Marc</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">B. Timothy Keith</dc:contributor>
@@ -78,6 +78,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://thegriggs.org/david/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
