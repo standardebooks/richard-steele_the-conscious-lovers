@@ -115,8 +115,8 @@
 		<itemref idref="dedication.xhtml"/>
 		<itemref idref="preface.xhtml"/>
 		<itemref idref="epigraph.xhtml"/>
-		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="dramatis-personae.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="prologue.xhtml"/>
 		<itemref idref="act-1.xhtml"/>
 		<itemref idref="act-2.xhtml"/>
