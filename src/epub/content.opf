@@ -67,6 +67,7 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="editor">G. A. Aitken</dc:contributor>
 		<meta property="file-as" refines="#editor">Aitken, G. A.</meta>
+		<link href="https://en.wikipedia.org/wiki/George_Atherton_Aitken" refines="#editor" rel="schema:sameAs"/>
 		<meta property="role" refines="#editor" scheme="marc:relators">ann</meta>
 		<dc:contributor id="transcriber-1">Clare Graham</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Graham, Clare</meta>
